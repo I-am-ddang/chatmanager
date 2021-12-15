@@ -1,0 +1,8 @@
+name: Chatmanager
+version: 1.0.0
+main: com.ddang_.chatmanager.Chatmanager
+authors: [ DDang_ ]
+description: ChatManager
+commands:
+  채팅제한:
+    description: setting chat limit
